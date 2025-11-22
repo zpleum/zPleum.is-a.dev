@@ -85,7 +85,7 @@ export function Footer() {
         </div>
         <div className="mt-8 border-t pt-6">
           <p className="text-center text-sm text-muted-foreground">
-            © {currentYear} zPleum. All rights reserved.
+            © {currentYear} zPleum. Licensed under MIT License.
           </p>
         </div>
       </div>
